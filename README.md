@@ -1,1 +1,1 @@
-# Flappy-Bird-FeedForward-NN
+A feedforward network trained in real-time in a flappy bird game imitation. The neural network being fed its position in relation to the pipes x and y along with plausible actions to determine fitness score (how many pipes a bird in a generation can get through). Utilizing the fitness score, the top few neural connectivity merge and batch together to create a new generation. Repeat until desired fitness or score is reached.
